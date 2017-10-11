@@ -1,0 +1,29 @@
+h1 {
+  font-style: normal;
+}
+
+h2 {
+  color: purple;
+}
+
+p {
+  line-height: 45px;
+}
+p.best {
+  font-family: fantasy;
+  color: red;
+  font-style: italic;
+  font-size: 50px;
+}
+
+.class {
+  font-family: cursive;
+}
+
+.flashy {
+  font-style: italic;
+}
+
+body {
+  background-color: green;
+}
